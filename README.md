@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 Eu sou o Gabriel de Oliveira, sou Programador Front End, atualmente estou criando um Gestor de automação para empresas, como PetShop, Construtoras e etc, estou utilizando:
 
